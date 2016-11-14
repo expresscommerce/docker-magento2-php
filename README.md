@@ -50,4 +50,4 @@ Application code is placed in `/srv/www`. You can also attach a volume to that l
 
 # Docker Compose
 
-Please see [https://github.com/mageinferno/magento2-docker-compose](https://github.com/mageinferno/magento2-docker-compose) for more detailed instructions and an example development environment using Docker Compose.
+Please see [https://github.com/mageinferno/magento2-docker-compose](https://github.com/mageinferno/magento2-docker-compose) for more detailed instructions and an example development environment using Docker Compose..
