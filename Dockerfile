@@ -1,5 +1,5 @@
 FROM php:7.0.8-fpm
-MAINTAINER Mark Shust <mark.shust@mageinferno.com>
+MAINTAINER Ali Hashmi <ali.hashmi@expresscommerce.co>
 
 RUN apt-get update \
   && apt-get install -y \
